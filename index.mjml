@@ -103,7 +103,7 @@
             </mj-column>
         </mj-section>
         <!-- payments section -->
-        <mj-section  padding-top="10px" padding-bottom="80px">
+        <mj-section  padding-top="10px">
             <mj-column>
                 <mj-text>
                     <img src="apple-pay_5968144.png" alt="Apple Pay"  width="35px" style="padding:5px;">
@@ -111,6 +111,20 @@
                     <img src="visa_16183667.png" alt="Visa"  width="35px" style="padding:5px;">
                     <img src="apple-pay_5968144.png" alt="Apple Pay"  width="35px" style="padding:5px;">
                     <img src="apple-pay_5968144.png" alt="Apple Pay"  width="35px" style="padding:5px;">
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- footer section -->
+        <mj-section background-color="#F6F6EF" padding-bottom="30px">
+            <mj-column width="300px" padding-top="30px">
+                <mj-text>
+                    <img src="facebook-6177_Iip1eXstU.png" alt="facebook" width="25px"  style="padding:5px;">
+                    <img src="instagram-6274_PW2Zh3bM_-.png" alt="instagram" width="25px"  style="padding:5px;">
+                    <img src="pinterest-6220_Y7RK1aP_k.png" alt="pinterest" width="25px"  style="padding:5px;">
+                    <img src="youtube-6262_ZlCo2G_3k.png" alt="youtube"  width="25px" style="padding:5px;">
+                </mj-text>
+                <mj-text color="#303030" font-family="Helvetica" font-size="12px" line-height="14px" padding-top="15px">
+                    lorem
                 </mj-text>
             </mj-column>
         </mj-section>
