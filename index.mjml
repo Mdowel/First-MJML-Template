@@ -76,9 +76,42 @@
         </mj-section>
 
         <!-- Guarantees section -->
-        <mj-section background-color="#000000">
+        <mj-section background-color="#000000" padding-top="30px" padding-left="50px" padding-right="50px" >
             <mj-column width="200px" padding="20px">
-                
+                <mj-image src="Orion_delivery.png" width="40px" />
+                <mj-text font-size="12px" line-height="21px" padding-top="15px">
+                    Express Delivery
+                </mj-text>
+            </mj-column>
+                        <mj-column width="200px" padding="20px">
+                <mj-image src="customer-support-4912_HmOSq2Lkd.png" width="40px" />
+                <mj-text font-size="12px" line-height="21px" padding-top="15px">
+                    24/7 Customer Service
+                </mj-text>
+            </mj-column>
+                        <mj-column width="200px" padding="20px">
+                <mj-image src="Orion_luxury.svg" width="40px" />
+                <mj-text font-size="12px" line-height="21px" padding-top="15px">
+                    Earn Rewards
+                </mj-text>
+            </mj-column>
+                        <mj-column width="200px" padding="20px">
+                <mj-image src="Orion_read-email.png" width="40px" />
+                <mj-text font-size="12px" line-height="21px" padding-top="15px">
+                    Join Our Newsletter
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- payments section -->
+        <mj-section  padding-top="10px" padding-bottom="80px">
+            <mj-column>
+                <mj-text>
+                    <img src="apple-pay_5968144.png" alt="Apple Pay"  width="35px" style="padding:5px;">
+                    <img src="paypal_196566.png" alt="Paypal"  width="35px" style="padding:5px;">
+                    <img src="visa_16183667.png" alt="Visa"  width="35px" style="padding:5px;">
+                    <img src="apple-pay_5968144.png" alt="Apple Pay"  width="35px" style="padding:5px;">
+                    <img src="apple-pay_5968144.png" alt="Apple Pay"  width="35px" style="padding:5px;">
+                </mj-text>
             </mj-column>
         </mj-section>
     </mj-body>
