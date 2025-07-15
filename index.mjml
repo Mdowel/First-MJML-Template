@@ -1,0 +1,85 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Quantico" href="https://fonts.google.com/css2?family=Quantico" />
+        <mj-attributes>
+            <mj-text font-family="Quantico, sans-serif" align="center" font-size="18px" line-height="26px" 
+                color="#ffffff" padding="0px" />
+            <mj-image padding="0px" />
+            <mj-button background-color="#D1AA5A" font-size="14px" color="#000000" font-family="Quantico, 
+                sans-serif" text-transform="uppercase" border-radius="0" height="45px" width="200px">
+            <mj-class name="head-text" font-size="48px" line-height="69px" text-transform="uppercase" />
+        </mj-attributes>
+    </mj-head>
+
+    <mj-body background-color="#f1f1f1">
+    <!-- logo section -->
+        <mj-section padding="0px"  background-color="#090b0a">
+            <mj-column>
+                <mj-image width="160px" padding="20px" src="https://images.unsplash.com/photo-1620379732654-cf9c51d9f385?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="logo" />
+            </mj-column>
+        </mj-section>
+    <!-- welcome section -->
+        <mj-section padding="0px">
+            <mj-column>
+                <mj-image width="600px" href="https://google.com" src="https://images.unsplash.com/photo-1566417713937-1c2732735804?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Welcome to Our Vineyard" />            
+            </mj-column>
+        </mj-section>
+
+    <!-- discount section -->
+        <mj-section padding="0" background-color="#000000">
+            <mj-column>
+                <mj-image width="600px" padding="50px 50px 20px 50px" src="https://images.unsplash.com/photo-1607082349566-187342175e2f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Get 50% Off" />
+                <mj-button href="https://google.com">
+                    Get 50% off now
+                </mj-button>
+                <mj-text font-size="12px">
+                    Or Use Code: 123XYZ456 at Checkout
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    <!-- why section -->
+        <mj-section background-color="#000000" padding-top="80px" padding-left="20px" padding-right="20px">
+            <mj-column width="400px" padding-bottom="15px">
+                <mj-text mj-class="head-text" font-size="48px" line-height="69px" text-transform="uppercase" font-family="Quantico, sans-serif"> 
+                    Why Vino?
+                </mj-text>
+            </mj-column>
+            <mj-column width="420px">
+                <mj-text font-size="16px">
+                     At Vino, we hand-select exceptional wines from renowned vineyards around the world, delivering unforgettable flavors to your doorstep. With our passion for craftsmanship and commitment to quality, every bottle is an invitation to savor, celebrate, and share. Let Vino elevate your wine experience with ease and elegance.
+                </mj-text>
+                <mj-image padding-top="20px" href="https://google.com" src="https://images.unsplash.com/photo-1568213816046-0ee1c42bd559?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Learn More" />
+            </mj-column>
+        </mj-section>
+
+    <!-- video section -->
+        <mj-section background-color="#000000">
+            <mj-column  padding-bottom="15px">
+                <mj-text font-size="28px" line-height="69px" text-transform="uppercase" font-family="Quantico, sans-serif"  padding-left="20px" padding-right="20px">
+                    Your Taste, Our Passion.
+                </mj-text>
+                <mj-text font-size="14px" padding-left="20px" padding-right="20px">
+                    Check out our latest video.
+                </mj-text>
+                <mj-image padding-top="4px" href="https://google.com" src="https://images.unsplash.com/photo-1694878981850-3bdc97ecb2bc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+            </mj-column>
+        </mj-section>
+
+        <!-- services section -->
+        <mj-section background-color="#000000" padding-top="80px">
+            <mj-column>
+                <mj-text padding-right="20px" padding-left="20px" font-size="30px" text-transform="uppercase">
+                    Outstanding service
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Guarantees section -->
+        <mj-section background-color="#000000">
+            <mj-column width="200px" padding="20px">
+                
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
