@@ -62,7 +62,7 @@
                 <mj-text font-size="14px" padding-left="20px" padding-right="20px">
                     Check out our latest video.
                 </mj-text>
-                <mj-image padding-top="4px" href="https://google.com" src="https://images.unsplash.com/photo-1694878981850-3bdc97ecb2bc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+                <mj-image padding-top="8px" href="https://google.com" src="https://images.unsplash.com/photo-1694878981850-3bdc97ecb2bc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
             </mj-column>
         </mj-section>
 
@@ -103,7 +103,7 @@
             </mj-column>
         </mj-section>
         <!-- payments section -->
-        <mj-section  padding-top="10px">
+        <mj-section  padding-top="12px" padding-bottom="0" background-color="#dbdbdb">
             <mj-column>
                 <mj-text>
                     <img src="apple-pay_5968144.png" alt="Apple Pay"  width="35px" style="padding:5px;">
@@ -115,16 +115,16 @@
             </mj-column>
         </mj-section>
         <!-- footer section -->
-        <mj-section background-color="#F6F6EF" padding-bottom="30px">
-            <mj-column width="300px" padding-top="30px">
-                <mj-text>
-                    <img src="facebook-6177_Iip1eXstU.png" alt="facebook" width="25px"  style="padding:5px;">
-                    <img src="instagram-6274_PW2Zh3bM_-.png" alt="instagram" width="25px"  style="padding:5px;">
-                    <img src="pinterest-6220_Y7RK1aP_k.png" alt="pinterest" width="25px"  style="padding:5px;">
-                    <img src="youtube-6262_ZlCo2G_3k.png" alt="youtube"  width="25px" style="padding:5px;">
-                </mj-text>
-                <mj-text color="#303030" font-family="Helvetica" font-size="12px" line-height="14px" padding-top="15px">
-                    lorem
+        <mj-section padding="0px" background-color="#dbdbdb">
+            <mj-column>
+                <mj-social padding="0px" icon-size="25px" mode="horizontal">
+                    <mj-social-element padding="16px" font-family="poppins, sans-serif" name="facebook" href="https://facebook.com/"></mj-social-element>
+                    <mj-social-element padding="16px" font-family="poppins, sans-serif" name="instagram" href="https://instagram.com/"></mj-social-element>
+                    <mj-social-element padding="16px" font-family="poppins, sans-serif"  name="pinterest" href="https://pinterest.com/"></mj-social-element>
+                    <mj-social-element padding="16px" font-family="poppins, sans-serif"  name="youtube" href="https://youtube.com/"></mj-social-element>
+                </mj-social>
+                <mj-text font-size="12px">
+                <a style="color:#090b0a"  href="https://google.com">Unsubscribe</a>
                 </mj-text>
             </mj-column>
         </mj-section>
